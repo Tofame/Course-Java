@@ -21,5 +21,17 @@ public class J04_LOOP {
         for (int c = 1; c < names.length; c = c + 2) {
             System.out.println(names[c]);
         }
+
+        System.out.println("\n");
+        // Loop "each" practising
+        System.out.println("=============\nĆwiczenie pętli for each\n");
+        int numbers[] = { 0, 1, 2, 3, 4, 5 };
+
+        int sum = 0;
+        for (int i : numbers) {
+            sum += i;
+        }
+
+        System.out.println("Suma liczb w tablicy numbers jest równa: " + sum);
     }
 }
