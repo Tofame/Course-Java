@@ -1,4 +1,4 @@
-package com.example.basics.data.IF_LOOP_SWITCH;
+package com.example.basics.data.IF_LOOP_SWITCH_WHILE;
 
 import java.util.concurrent.ThreadLocalRandom;
 

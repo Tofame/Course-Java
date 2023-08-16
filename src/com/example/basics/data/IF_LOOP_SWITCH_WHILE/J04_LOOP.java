@@ -1,4 +1,4 @@
-package com.example.basics.data.IF_LOOP_SWITCH;
+package com.example.basics.data.IF_LOOP_SWITCH_WHILE;
 
 public class J04_LOOP {
     public static void main(String[] args) {
